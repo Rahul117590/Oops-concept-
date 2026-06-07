@@ -1,0 +1,6 @@
+1.class and object 
+- class is the blue print of model. it is just like a black page
+- an object is the instance - when class is created no memory is allocted but when class is created momory
+- is allcated in the stroage data.
+- you can create multiple object from a single class 
+2. why python is called oops?
