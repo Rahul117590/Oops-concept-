@@ -4,6 +4,13 @@ class Employee:
         self.salary=50000
         self.designation="SDE"
 
+    def travel(self,destination):
+        print(f"i want to visit {destination} urgently")
+
+
+
 user1=Employee()
 print(user1.salary)
+user1.travel("patna")
+
 
