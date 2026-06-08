@@ -4,3 +4,5 @@
 - is allcated in the stroage data.
 - you can create multiple object from a single class 
 2. why python is called oops?
+3. make a code of constructor it is simple project on game 
+4. make a simple chatbot program
