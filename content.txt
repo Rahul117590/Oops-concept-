@@ -12,3 +12,9 @@
 - it restrict access to certain attributes or method to protect data enforced controll access
 7. Abstraciton- it mean that hidding unnessory details from user friend
 - u can access it by making mthod variable 
+8. Polymorphism- simple word of polymorphis is many forms
+- so it may be define as it allow the same function,operator object to behave differently 
+-on the context
+-as classroom you behave like student 
+- in store you behave as a customer 
+- at home, you behave as child
