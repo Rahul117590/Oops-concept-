@@ -18,3 +18,5 @@
 -as classroom you behave like student 
 - in store you behave as a customer 
 - at home, you behave as child
+-Inheritance it means that allow one class (child) to reuse the properties and method of another
+- class(parents)
