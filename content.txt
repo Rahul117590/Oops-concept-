@@ -6,3 +6,7 @@
 2. why python is called oops?
 3. make a code of constructor it is simple project on game 
 4. make a simple chatbot program
+- user make there signup then signin then write message then post there message to there friend 
+5. push to main git 
+6. Encapsulation it means that make method private that is not used directly from outside the class
+- it restrict access to certain attributes or method to protect data enforced controll access
