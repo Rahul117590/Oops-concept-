@@ -10,3 +10,5 @@
 5. push to main git 
 6. Encapsulation it means that make method private that is not used directly from outside the class
 - it restrict access to certain attributes or method to protect data enforced controll access
+7. Abstraciton- it mean that hidding unnessory details from user friend
+- u can access it by making mthod variable 
